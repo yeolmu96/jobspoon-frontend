@@ -130,22 +130,6 @@
 
 ---
 
-## Design Pattern
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7401fb13-86aa-47fd-96ba-afe1355855ba" width="90%" alt="설계 패턴 구조">
-</p>
-
-<div align="center">
-<b>Layered Architecture</b> — Controller → Service → Repository 계층으로 책임 분리<br/>
-<b>Domain-Driven Design (DDD)</b> — 도메인 단위 패키징으로 유지보수성과 확장성 확보
-</div>
-
-<br/>
-<br/>
-
----
-
 ## Technical Highlights
 
 <div align="center">
