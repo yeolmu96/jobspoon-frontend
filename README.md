@@ -1,4 +1,9 @@
-<h1 align="center">Job-Spoon</h1>
+---
+<h1 align="center">
+  🔗 <a href="https://job-spoon.com" target="_blank" style="text-decoration:none; color:#13B38D; font-weight:800;">
+    <strong>Job-Spoon</strong>
+  </a>
+</h1>
 
 <p align="center">
   <b>국내 최초, 개발자를 위한 AI 모의면접 플랫폼</b><br/>
@@ -6,26 +11,36 @@
   <b>WOW 공대팀 · Frontend Module</b>
 </p>
 
+
+<br/>
+<br/>
+
 ---
 
 ## Project Overview
 
 <p align="center">
-<b>JobSpoon</b>은 AI 기반 모의면접을 통해 개발자의 역량을 진단하고,<br/>
-출석·퀴즈·스터디 등 다양한 활동 데이터를 종합하여<br/>
-<b>개인 성장과 신뢰도를 시각화</b>하는 국내 최초의 AI 개발자 성장 관리 플랫폼입니다.
+  <b>JobSpoon</b>은 AI 기반 모의면접을 통해 개발자의 역량을 진단하고,<br/>
+  출석·퀴즈·스터디 등 다양한 활동 데이터를 종합하여<br/>
+  <b>개인 성장과 신뢰도를 시각화</b>하는 국내 최초의 AI 개발자 성장 관리 플랫폼입니다.
 </p>
+
+<br/>
+<br/>
 
 ---
 
 ## MyPage Demo
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=2HRqqLArhD4" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo">
-  </a><br/>
-  <i>마이페이지 대시보드 시연 영상 보기</i>
+<p align="center"> 
+  <a href="https://www.youtube.com/watch?v=2HRqqLArhD4" target="_blank"> 
+    <img src="https://img.shields.io/badge/YouTube%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo"> 
+  </a><br/> 
+  <i>마이페이지 대시보드 시연 영상 보기</i> 
 </p>
+
+<br/>
+<br/>
 
 ---
 
@@ -39,43 +54,43 @@
       <img src="https://avatars.githubusercontent.com/unchul" width="80" height="80" style="border-radius:50%;"/><br/>
       <b>임운철</b><br/>
       <sub>MFE · SEO · PM</sub><br/>
-      <a href="https://github.com/unchul">@unchul</a>
+      <a href="https://github.com/unchul" style="color:#13B38D;">@unchul</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/IMCODER0000" width="80" height="80" style="border-radius:50%;"/><br/>
       <b>최현수</b><br/>
       <sub>AI Interview · CI/CD</sub><br/>
-      <a href="https://github.com/IMCODER0000">@IMCODER0000</a>
+      <a href="https://github.com/IMCODER0000" style="color:#13B38D;">@IMCODER0000</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/Mur-pixel" width="80" height="80" style="border-radius:50%;"/><br/>
       <b>김정민</b><br/>
       <sub>SpoonWord</sub><br/>
-      <a href="https://github.com/Mur-pixel">@Mur-pixel</a>
+      <a href="https://github.com/Mur-pixel" style="color:#13B38D;">@Mur-pixel</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/Roto90-BackEnd" width="80" height="80" style="border-radius:50%;"/><br/>
       <b>박태준</b><br/>
       <sub>Studyroom</sub><br/>
-      <a href="https://github.com/Roto90-BackEnd">@Roto90-BackEnd</a>
+      <a href="https://github.com/Roto90-BackEnd" style="color:#13B38D;">@Roto90-BackEnd</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/puppy1012" width="80" height="80" style="border-radius:50%;"/><br/>
       <b>이승현</b><br/>
       <sub>Admin</sub><br/>
-      <a href="https://github.com/puppy1012">@puppy1012</a>
+      <a href="https://github.com/puppy1012" style="color:#13B38D;">@puppy1012</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/yeolmu96" width="80" height="80" style="border-radius:50%;"/><br/>
       <b>정은선</b><br/>
       <sub>MyPage</sub><br/>
-      <a href="https://github.com/yeolmu96">@yeolmu96</a>
+      <a href="https://github.com/yeolmu96" style="color:#13B38D;">@yeolmu96</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/IsKJH" width="80" height="80" style="border-radius:50%;"/><br/>
       <b>김지한</b><br/>
       <sub>Flutter Mobile</sub><br/>
-      <a href="https://github.com/IsKJH">@IsKJH</a>
+      <a href="https://github.com/IsKJH" style="color:#13B38D;">@IsKJH</a>
     </td>
   </tr>
 </table>
@@ -88,6 +103,9 @@
 
 </div>
 
+<br/>
+<br/>
+
 ---
 
 ## Tech Stack
@@ -96,6 +114,9 @@
   <img src="https://github.com/user-attachments/assets/6a79ebcd-0011-4b0f-8005-f0e4e987fd51" width="90%" alt="기술 스택 다이어그램">
 </p>
 
+<br/>
+<br/>
+
 ---
 
 ## Architecture
@@ -103,6 +124,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/201203c4-d9e9-4da3-8670-d31ec7216445" width="90%" alt="서비스 아키텍처 다이어그램">
 </p>
+
+<br/>
+<br/>
 
 ---
 
@@ -116,6 +140,9 @@
 <b>Layered Architecture</b> — Controller → Service → Repository 계층으로 책임 분리<br/>
 <b>Domain-Driven Design (DDD)</b> — 도메인 단위 패키징으로 유지보수성과 확장성 확보
 </div>
+
+<br/>
+<br/>
 
 ---
 
@@ -160,6 +187,9 @@
 
 </div>
 
+<br/>
+<br/>
+
 ---
 
 ## Key Features
@@ -185,6 +215,9 @@
 </table>
 
 </div>
+
+<br/>
+<br/>
 
 ---
 
@@ -213,6 +246,9 @@
 
 </div>
 
+<br/>
+<br/>
+
 ---
 
 ## Deployment
@@ -237,6 +273,9 @@
 </table>
 
 </div>
+
+<br/>
+<br/>
 
 ---
 
