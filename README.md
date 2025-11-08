@@ -3,7 +3,7 @@
 <p align="center">
   <b>국내 최초, 개발자를 위한 AI 모의면접 플랫폼</b><br/>
   <i>AI로 검증하는 진짜 성장, JobSpoon과 함께하세요.</i><br/>
-  <b>WOW 공대팀 · Backend Module</b>
+  <b>WOW 공대팀 · Frontend Module</b>
 </p>
 
 ---
@@ -243,7 +243,7 @@
 ## How to Run
 
 ```bash
-# Backend 실행
-cd backend
-./gradlew build
-java -jar build/libs/jobspoon.jar
+# Frontend 실행
+cd frontend
+npm install
+npm run start
