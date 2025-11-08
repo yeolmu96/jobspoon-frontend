@@ -3,7 +3,7 @@
 <p align="center">
   <b>국내 최초, 개발자를 위한 AI 모의면접 플랫폼</b><br/>
   <i>AI로 검증하는 진짜 성장, JobSpoon과 함께하세요.</i><br/>
-  <b>WOW 공대팀 · Backend Module</b>
+  <b>WOW 공대팀 · Frontend Module</b>
 </p>
 
 ---
@@ -24,7 +24,7 @@
   <a href="https://www.youtube.com/watch?v=2HRqqLArhD4" target="_blank">
     <img src="https://img.shields.io/badge/YouTube%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo">
   </a><br/>
-  <i>마이페이지 대시보드 실시간 시연 영상 보기</i>
+  <i>마이페이지 대시보드 시연 영상 보기</i>
 </p>
 
 ---
@@ -167,7 +167,7 @@
 
 <table>
   <tr><th>도구</th><th>역할</th></tr>
-  <tr><td><a href="https://eddi-robot-academy.notion.site/239694fe059580ba9209da02f8fc32b4" target="_blank"><b>Notion</b></a></td><td>기획, 백로그, 일정 관리</td></tr>
+  <tr><td><a href="https://eddi-robot-academy.notion.site/239694fe059580ba9209da02f8fc32b4" target="_blank"><b>Notion</b></a></td><td>기획, 백로그, 스크럼</td></tr>
   <tr><td>GitHub</td><td>브랜치 전략, PR 리뷰, 커밋 컨벤션</td></tr>
   <tr><td>Slack</td><td>실시간 커뮤니케이션</td></tr>
   <tr><td>Issue Tracker</td><td>장애 대응, 기능 개선 기록</td></tr>
@@ -194,7 +194,7 @@
 </div>
 
 ```bash
-# Backend 실행
-cd backend
-./gradlew build
-java -jar build/libs/jobspoon.jar
+# Frontend 실행
+cd frontend
+npm install
+npm run start
