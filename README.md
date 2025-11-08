@@ -24,7 +24,7 @@
   <a href="https://www.youtube.com/watch?v=2HRqqLArhD4" target="_blank">
     <img src="https://img.shields.io/badge/YouTube%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo">
   </a><br/>
-  <i>마이페이지 대시보드 실시간 시연 영상 보기</i>
+  <i>마이페이지 대시보드 시연 영상 보기</i>
 </p>
 
 ---
